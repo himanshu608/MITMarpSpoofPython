@@ -5,9 +5,14 @@ A simple mitm tool using python based on arp spoof.
 Usage: mitm.py [options]
 
 Options:
-  -h, --help            show this help message and exit
+  -h, --help           
+  
+                      show this help message and exit
+  
   -t TARGETIP, --targetip=TARGETIP
+  
                         IP address of the target
   -r ROUTERIP, --routerip=ROUTERIP
+  
                         IP address of the router
 
